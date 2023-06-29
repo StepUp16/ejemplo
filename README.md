@@ -1,3 +1,20 @@
+# INFORMACION PROYECTO INGRESOS EGRESOS MED135
+
+## Estructura 
+El proyecto esta formado por la clases:
+
+- Ingresos
+- Egresos
+- Concepto
+- Categoria
+
+## ¿Como usar el programa? 
+
+## Consideraciones
+Para ejecutar el programa se deben considerar lo siguiente:
+
+- Es imprescindible agregar como minimo una categoria, para poder agregar un concepto
+- Si se cuenta con una categoria agregada
 ***
 Este proyecto fue generado con fines educativos y de practica en el lenguaje de java con el objetivo de poder realizar un mantenimiento de egresos e ingresos en la cual se le solicita al usuario agregar una categoria y agregar un catalogo en base a que concepto sera  ingreso o egreso.
 ### Screenshot
@@ -11,11 +28,12 @@ A list of technologies used within the project:
 ***
 Una pequeña introducción sobre la instalación.. 
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
+$ git clone https:https://github.com/Cristhoper-Mendez/IngresosEgresosProject
 ```
 Información adicional:
-## Collaboration
+## Collaboradores
 ***
+- Cristopher
+- Jose
+- Alexis
+- Saul
